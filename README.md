@@ -1,4 +1,7 @@
 **Fine-Grained Sentiment Analysis  Stock Market Recommendation Using Enhanced Transformer**
+
+
+
 This project predicts whether the stock market will go Up 📈, Down 📉, or remain Stable 🔁, based on financial news headlines. It combines Natural Language Processing (NLP) with machine learning models like LSTM and RoBERTa, and displays predictions through a web interface built with Flask, HTML, and CSS.
 
 **🧠 Features**
